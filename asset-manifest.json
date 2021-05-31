@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SloppyCat/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/SloppyCat/static/js/main.e666c066.chunk.js",
+    "main.js.map": "/SloppyCat/static/js/main.e666c066.chunk.js.map",
+    "runtime-main.js": "/SloppyCat/static/js/runtime-main.0ba37dfc.js",
+    "runtime-main.js.map": "/SloppyCat/static/js/runtime-main.0ba37dfc.js.map",
+    "static/js/2.0b925f22.chunk.js": "/SloppyCat/static/js/2.0b925f22.chunk.js",
+    "static/js/2.0b925f22.chunk.js.map": "/SloppyCat/static/js/2.0b925f22.chunk.js.map",
+    "static/js/3.b365c92a.chunk.js": "/SloppyCat/static/js/3.b365c92a.chunk.js",
+    "static/js/3.b365c92a.chunk.js.map": "/SloppyCat/static/js/3.b365c92a.chunk.js.map",
+    "index.html": "/SloppyCat/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/SloppyCat/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0b925f22.chunk.js.LICENSE.txt": "/SloppyCat/static/js/2.0b925f22.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SloppyCat/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba37dfc.js",
+    "static/js/2.0b925f22.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e666c066.chunk.js"
+  ]
+}
